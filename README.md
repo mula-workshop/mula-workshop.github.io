@@ -1,2 +1,3 @@
-# mula-workshop.github.io
-MULA ws website
+#MULA 2018 Website
+
+Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
