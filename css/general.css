@@ -559,6 +559,14 @@ color: #ECEBEB;
   overflow-y: auto;
 }
 
+.clamp-scroll-4 {
+  text-align: justify;
+  line-height: 1.5em;
+  max-height: calc(1.5em * 4);
+  overflow-y: auto;
+  padding: 20px 0; 
+}
+
 .morph-button-inflow-2 > button svg {
 	display: inline-block;
 	padding-right: 10px;
