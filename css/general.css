@@ -553,6 +553,12 @@ color: #ECEBEB;
 	text-align: left;
 }
 
+.clamp-scroll-5 {
+  line-height: 1.5em;
+  max-height: calc(1.5em * 5); /* 5 lines */
+  overflow-y: auto;
+}
+
 .morph-button-inflow-2 > button svg {
 	display: inline-block;
 	padding-right: 10px;
