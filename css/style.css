@@ -4773,3 +4773,16 @@ footer p {
 		
 		
 	}
+
+.keynote-abstract {
+    display: none;
+    margin-top: 5px;
+}
+
+.hover-title {
+    cursor: pointer;
+}
+
+.hover-title:hover + .keynote-abstract {
+    display: inline;
+}
